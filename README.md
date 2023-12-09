@@ -1,4 +1,4 @@
-### Hi
+![The San Juan Mountains are beautiful!](/1.png "San Juan Mountains")
 
 
 **Sumaiyakhan322/SumaiyaKhan322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
