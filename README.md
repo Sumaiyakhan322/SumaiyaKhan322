@@ -29,9 +29,12 @@
 </p>
 
 
-  <div align="center" style="display: flex;
+## My Overall Journey:
+
+<div align="center" style="display: flex;
    align-items: center;
-     justify-content: center;" >
+     justify-content: center;
+     margin-bottom:40px" >
   
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sumaiyakhan322&theme=yeblu" alt=""  />
   </div>
@@ -42,7 +45,7 @@
 
 
 
-
+## My Stats :
 
 <div align="center" style='display:flex; gap:20px'>
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sumaiyakhan322&theme=yeblu" alt=""  />
