@@ -3,11 +3,12 @@
 
 <code>
 <h1 align="center">
- 👋 Hi ,I am Sumaiya Khan</span>
+ 👋 Hi ,I am Sumaiya Khan <br>
+ Front-End Developer</span>
  
 </h1>
 
-  <h3 align='center'>Front-End Developer</h3>
+  
 
 </code>
 
@@ -17,7 +18,7 @@
 
 
 
-Here are some ideas to get you started:
+Info About me:
 
 - 🔭 I’m currently working on ...front-end-websites
 - 🌱 I’m currently learning ...express,next.js,
