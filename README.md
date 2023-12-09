@@ -45,7 +45,7 @@
 
 
 
-## My Stats :
+## My Current Stats :
 
 <div align="center" style='display:flex; gap:20px'>
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sumaiyakhan322&theme=yeblu" alt=""  />
