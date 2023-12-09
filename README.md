@@ -28,13 +28,24 @@
 
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sumaiyakhan322)](https://git.io/streak-stats)
+
+
+
+
+![Suamiya khan github banner!](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sumaiyakhan322&theme=default "Suamiya Khan")
 
 <div>
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sumaiyakhan322&theme=default)
 
 
 
-## Languages, Frame Works,Technologies I Know
+<br>
+
+
+##
+
+
+
+
+## **Frame Works,Technologies I Know:**
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode,bootstrap,tailwind,express,figma,firebase,mongodb,netlify,nodejs,react,vite,)](https://skillicons.dev) 
