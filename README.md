@@ -31,10 +31,21 @@
 
 
 
+ ![Suamiya khan github banner!](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sumaiyakhan322&theme=chartreuse_dark
+  "Suamiya Khan")
 
-![Suamiya khan github banner!](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sumaiyakhan322&theme=default "Suamiya Khan")
 
-<div>
+
+
+
+
+
+<div align="center" style='display:flex; gap:20px'>
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sumaiyakhan322&theme=chartreuse_dark" alt="https://www.facebook.com/tanzim.nahid.1/"  />
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sumaiyakhan322&theme=chartreuse_dark" alt="https://www.facebook.com/tanzim.nahid.1/"  />
+
+ 
+</div>
 
 
 
