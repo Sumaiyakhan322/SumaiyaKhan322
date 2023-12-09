@@ -3,7 +3,7 @@
 
 <code>
 <h1 align="center">
- 👋 Hi ,I am  <span style="color:yellow ;" style="font-size:30px"> Sumaiya Khan 
+ 👋 Hi ,I am   <span style="color: yellow; font-size: 30px;"> Sumaiya Khan </span>
  
 </h1>
 <p align='center'>Front-End-Developer</p>
