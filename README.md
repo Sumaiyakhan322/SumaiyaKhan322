@@ -1,7 +1,17 @@
 ![Suamiya khan github banner!](/1.png "Suamiya Khan")
 
 
-**Sumaiyakhan322/SumaiyaKhan322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<code>
+<h1 align="center">
+ 👋 Hi ,I am  <span style="color:yellow ;" style="font-size:30px"> Sumaiya Khan 
+ 
+</h1>
+<p align='center'>Front-End-Developer</p>
+</code>
+
+
+##
+
 
 Here are some ideas to get you started:
 
