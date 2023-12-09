@@ -1,7 +1,7 @@
 ![Suamiya khan github banner!](/1.png "Suamiya Khan")
 
 <h1 align="center">Greetings 👋, I'm Sumaiya Khan</h1>
-<h3 align="center">Let's code together and bring ideas to life</h3>
+<h3 align="center">I'm a  MERN stack developer, ready to embark on a coding journey with you. Let's bring ideas to life through code!</h3>
 
 
 
