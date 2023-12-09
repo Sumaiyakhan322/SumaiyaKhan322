@@ -3,15 +3,15 @@
 
 <code>
 <h1 align="center">
- 👋 Hi ,I am   <span style="color: yellow"> I am Sumaiya Khan </span>
+ 👋 Hi ,I am Sumaiya Khan</span>
  
 </h1>
 
+  <h3 align='center'>Front-End Developer</h3>
+
 </code>
 
-<center>
-  <h3>Front-End Developer</h3>
-</center>
+
 
 
 
