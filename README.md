@@ -22,9 +22,16 @@
 
 
 ## Get in touch with me
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/sumaiya-khan-917b01265/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sumaiya-khan-917b01265/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100045201829910" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/tanzim.nahid.1/" height="30" width="40" /></a>
 
 </p>
+
+
+<div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sumaiyakhan322&theme=prussian)
+</div>
+<div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sumaiyakhan322&theme=prussian&utcOffset=8)
 
