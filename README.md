@@ -28,7 +28,9 @@
 
 </p>
 
+## **Frame Works,Technologies I Know:**
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode,bootstrap,tailwind,express,figma,firebase,mongodb,netlify,nodejs,react,vite,)](https://skillicons.dev) 
 ## My Overall Journey:
 
 <div align="center" style="display: flex;
@@ -64,6 +66,3 @@
 
 
 
-## **Frame Works,Technologies I Know:**
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode,bootstrap,tailwind,express,figma,firebase,mongodb,netlify,nodejs,react,vite,)](https://skillicons.dev) 
