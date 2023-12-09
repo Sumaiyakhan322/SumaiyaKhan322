@@ -1,4 +1,4 @@
-![The San Juan Mountains are beautiful!](/1.png "San Juan Mountains")
+![Suamiya khan github banner!](/1.png "Suamiya Khan")
 
 
 **Sumaiyakhan322/SumaiyaKhan322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
