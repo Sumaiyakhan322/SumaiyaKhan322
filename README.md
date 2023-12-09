@@ -3,14 +3,18 @@
 
 <code>
 <h1 align="center">
- 👋 Hi ,I am   <span style="color: yellow; font-size: 30px;"> Sumaiya Khan </span>
+ 👋 Hi ,I am   <span style="color: yellow"> I am Sumaiya Khan </span>
  
 </h1>
-<p align='center'>Front-End-Developer</p>
+
 </code>
 
+<center>
+  <h3>Front-End Developer</h3>
+</center>
 
-##
+
+
 
 
 Here are some ideas to get you started:
