@@ -2,9 +2,9 @@
 
 
 <code>
-<h1 align="center">
- 👋 Hi ,I am Sumaiya Khan <br>
- Front-End Developer</span>
+<h1 style="text-align:center">
+ 👋 Hi ,I am Sumaiya Khan 
+    Front-End Developer
  
 </h1>
 
